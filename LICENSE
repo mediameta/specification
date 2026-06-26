@@ -1,0 +1,37 @@
+LICENSE
+
+MediaMeta Specification License
+
+This repository contains the official MediaMeta Specification, including
+normative documents, examples, diagrams, and JSON Schema definitions.
+
+Copyright (c) 2026 Ohana Commons
+
+The MediaMeta Specification is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+The intent of this license is to encourage broad adoption and
+independent implementations of the MediaMeta Specification.
+
+Anyone may:
+
+- Read and study the specification
+- Share the specification
+- Implement the specification in any programming language
+- Build commercial or open-source software implementing MediaMeta
+- Publish compatible implementations
+
+Attribution to the MediaMeta project is requested in accordance with
+the CC BY 4.0 license.
+
+This license applies only to the contents of this repository unless
+otherwise noted.
+
+Reference implementations (such as SceneMapper and MediaForge) are
+licensed independently and may use different software licenses.
+
+The names "MediaMeta", "SceneMapper", and "MediaForge", along with any
+associated logos or trademarks, are not granted under this license and
+remain subject to applicable trademark law.
